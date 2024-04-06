@@ -1,9 +1,10 @@
 ### Olá! Eu sou o José
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=azs903e@gmail.com&logoColor=white)
-
+#### azs903e@gmail.com
 
 [![Gmail](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=15992726669&logoColor=white)
+#### 15992726669
 
 ![José GitHub stats](https://github-readme-stats.vercel.app/api?username=joseMariaMartins&show_icons=true&theme=radical)
 
