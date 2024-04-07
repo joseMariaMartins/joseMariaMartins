@@ -13,7 +13,7 @@
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div> <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=azs903e@gmail.com&logoColor=white)  [![Gmail](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=15992726669&logoColor=white)
-#### azs903e@gmail.com 15992726669
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=azs903e@gmail.com&logoColor=white) 
+#### azs903e@gmail.com
 
 
