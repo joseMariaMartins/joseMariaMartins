@@ -1,6 +1,6 @@
 ### Olá! Eu sou o José
 
-![José GitHub stats](https://github-readme-stats.vercel.app/api?username=joseMariaMartins&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseMariaMartins&layout=compact)
+![José GitHub stats](https://github-readme-stats.vercel.app/api?username=joseMariaMartins&show_icons=true&theme=radical) <br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseMariaMartins&layout=compact)
 
 ## Tecnologias que tenho conhecimento
 
