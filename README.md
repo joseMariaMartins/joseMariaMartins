@@ -2,19 +2,25 @@
 
 ---
 
-<p align="left" style="white-space: nowrap;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=joseMariaMartins&show_icons=true&count_private=true&theme=custom&title_color=FFA500&text_color=FFFFFF&bg_color=0D1117&icon_color=FFA500" 
-    height="200" 
-    margin="10px"
-    style="display: inline-block; vertical-align: top; margin-right: 20px;"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseMariaMartins&layout=compact&langs_count=8&theme=custom&title_color=FFA500&text_color=FFFFFF&bg_color=0D1117" 
-    height="200" 
-    style="display: inline-block; vertical-align: top;"
-  />
-</p>
+<table style="border-collapse: collapse; width: 100%; max-width: 700px; margin: 0 auto;">
+  <tr>
+    <td style="padding: 0; border: none; width: 50%; text-align: center;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=joseMariaMartins&show_icons=true&count_private=true&theme=custom&title_color=FFA500&text_color=FFFFFF&bg_color=0D1117&icon_color=FFA500" 
+        height="200"
+        style="display: block; margin: 0 auto;"
+      />
+    </td>
+    <td style="padding: 0; border: none; width: 50%; text-align: center;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseMariaMartins&layout=compact&langs_count=8&theme=custom&title_color=FFA500&text_color=FFFFFF&bg_color=0D1117" 
+        height="200"
+        style="display: block; margin: 0 auto;"
+      />
+    </td>
+  </tr>
+</table>
+
 
 
 <br/>
