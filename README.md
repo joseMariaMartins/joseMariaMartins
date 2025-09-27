@@ -25,7 +25,7 @@ Sou José Maria Martins, um desenvolvedor apaixonado por tecnologia e inovação
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
+<p align="left">
   <img 
     height="200"
     width="48%" 
