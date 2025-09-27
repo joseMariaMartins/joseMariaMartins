@@ -6,12 +6,12 @@
 
 <p align="left">
     <img 
-    height="300"
+    height="250"
     width="45%" 
     src="https://github-readme-stats.vercel.app/api?username=joseMariaMartins&show_icons=true&theme=radical&count_private=true" 
   />
   <img 
-    height="200"
+    height="250"
     width="45%" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseMariaMartins&layout=compact&theme=radical&langs_count=8" 
   />
