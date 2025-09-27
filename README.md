@@ -5,11 +5,11 @@
 <p align="center">
   <img 
     width="48%" 
-    src="https://github-readme-stats.vercel.app/api?username=joseMariaMartins&show_icons=true&theme=radical&count_private=true" 
-  />
-  <img 
-    width="48%" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseMariaMartins&layout=compact&theme=radical&langs_count=8" 
+  />
+    <img 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api?username=joseMariaMartins&show_icons=true&theme=radical&count_private=true" 
   />
 </p>
 
