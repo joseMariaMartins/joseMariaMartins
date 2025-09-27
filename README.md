@@ -2,15 +2,15 @@
 
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=joseMariaMartins&show_icons=true&count_private=true&theme=custom&title_color=FFA500&text_color=FFFFFF&bg_color=0D1117&icon_color=FFA500" 
-    style="height: 200px; max-width: 100%;"
+    style="height: 200px; width: 100%; max-width: 48%;" 
   />
   
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseMariaMartins&layout=compact&langs_count=8&theme=custom&title_color=FFA500&text_color=FFFFFF&bg_color=0D1117" 
-    style="height: 200px; max-width: 100%;"
+    style="height: 200px; width: 100%; max-width: 48%;" 
   />
 </div>
 
