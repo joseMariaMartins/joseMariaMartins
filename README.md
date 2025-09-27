@@ -2,7 +2,7 @@
 
 ---
 
-### Estatísticas                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                              
 
 <p align="left">
     <img 
