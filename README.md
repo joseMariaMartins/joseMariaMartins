@@ -8,7 +8,7 @@
   <img 
     height="200"
     width="48%" 
-    style="margin-right: 10px;"
+    style="margin-right: 2%;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseMariaMartins&layout=compact&theme=radical&langs_count=8" 
   />
   <img 
