@@ -2,7 +2,7 @@
 
 ---
 
-<p align="center" style="white-space: nowrap;">
+<p align="left" style="white-space: nowrap;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=joseMariaMartins&show_icons=true&count_private=true&theme=custom&title_color=FFA500&text_color=FFFFFF&bg_color=0D1117&icon_color=FFA500" 
     height="200" 
