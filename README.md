@@ -6,7 +6,7 @@
 
 <p align="left">
     <img 
-    height="220"
+    height="300"
     width="45%" 
     src="https://github-readme-stats.vercel.app/api?username=joseMariaMartins&show_icons=true&theme=radical&count_private=true" 
   />
