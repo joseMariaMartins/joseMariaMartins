@@ -75,14 +75,5 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-<img
-  align="left"
-  alt="MSSQL"
-  title="MSSQL"
-  width="40px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mssql/mssql-original.svg"
-/>
-
 
 <br/><br/>
