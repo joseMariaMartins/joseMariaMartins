@@ -1,8 +1,6 @@
 <h1><span style="color: #FFFFFF;">José Maria Martins Junior</span></h1>
 
 
----
-
 <table style="border-collapse: collapse; width: 100%; max-width: 700px; margin: 0 auto;">
   <tr>
     <td style="padding: 0; border: none; width: 50%; text-align: center;">
