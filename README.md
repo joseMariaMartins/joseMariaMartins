@@ -1,10 +1,84 @@
-![José GitHub stats](https://github-readme-stats.vercel.app/api?username=joseMariaMartins&show_icons=true&theme=radical&width=400) <br> 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseMariaMartins&layout=compact&width=400)
+# 👨‍💻 José Maria Martins
 
-## Tecnologias
+**`Desenvolvedor FullStack`**
 
-<div style="display: inline_block"><br/>
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-</div> <br/>
+Sou José Maria Martins, um desenvolvedor apaixonado por tecnologia e inovação. Atualmente focado em desenvolvimento FullStack, sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<img 
+    align="left" 
+    alt="C#" 
+    title="C#" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+<br/>
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api?username=joseMariaMartins&show_icons=true&theme=radical&count_private=true" 
+  />
+  <img 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseMariaMartins&layout=compact&theme=radical&langs_count=8" 
+  />
+</p>
+
+---
+
+### 📫 Conecte-se comigo
+
+<div> 
+  <a href = "mailto:seu-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
