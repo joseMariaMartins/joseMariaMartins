@@ -2,25 +2,25 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### Estatísticas
 
 <p align="left">
   <img 
     height="200"
-    width="48%" 
-    style="margin-right: 2%;"
+    width="45%" 
+    style="margin-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseMariaMartins&layout=compact&theme=radical&langs_count=8" 
   />
   <img 
     height="200"
-    width="48%" 
+    width="45%" 
     src="https://github-readme-stats.vercel.app/api?username=joseMariaMartins&show_icons=true&theme=radical&count_private=true" 
   />
 </p>
 
 <br/>
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias 
 
 <img 
     align="left" 
@@ -61,14 +61,6 @@
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
 <br/>
