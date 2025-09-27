@@ -1,8 +1,6 @@
-# 👨‍💻 José Maria Martins
+# José Maria Martins Junior
 
-**`Desenvolvedor FullStack`**
-
-Sou José Maria Martins, um desenvolvedor apaixonado por tecnologia e inovação. Atualmente focado em desenvolvimento FullStack, sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
+**`Estudante de T.I`**
 
 <p align="left">
     <a href="https://github.com/joseMariaMartins?tab=repositories&sort=stargazers">
