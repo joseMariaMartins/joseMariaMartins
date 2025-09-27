@@ -2,22 +2,24 @@
 
 ---
 
+<!-- GitHub Stats e Linguagens mais usadas lado a lado, com tema laranja -->
 <table>
   <tr>
     <td>
       <img 
         height="200"
-        src="https://github-readme-stats.vercel.app/api?username=joseMariaMartins&show_icons=true&theme=radical&count_private=true" 
+        src="https://github-readme-stats.vercel.app/api?username=joseMariaMartins&show_icons=true&count_private=true&theme=custom&title_color=FFA500&text_color=FFFFFF&bg_color=0D1117&icon_color=FFA500" 
       />
     </td>
     <td>
       <img 
         height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseMariaMartins&layout=compact&theme=radical&langs_count=8" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseMariaMartins&layout=compact&langs_count=8&theme=custom&title_color=FFA500&text_color=FFFFFF&bg_color=0D1117" 
       />
     </td>
   </tr>
 </table>
+
 
 <br/>
 
