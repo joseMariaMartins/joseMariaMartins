@@ -1,10 +1,30 @@
-# 👨‍💻 José Maria Martins
 
-**`Desenvolvedor FullStack`**
 
-Sou José Maria Martins, um desenvolvedor apaixonado por tecnologia e inovação. Atualmente focado em desenvolvimento FullStack, sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api?username=joseMariaMartins&show_icons=true&theme=radical&count_private=true" 
+  />
+  <img 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseMariaMartins&layout=compact&theme=radical&langs_count=8" 
+  />
+</p>
 
 ---
+
+### 📫 Conecte-se comigo
+
+<div> 
+  <a href = "mailto:seu-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>]
+
+<br/>
+<br/>
+<br/>
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -56,29 +76,3 @@ Sou José Maria Martins, um desenvolvedor apaixonado por tecnologia e inovação
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-<br/>
-<br/>
-<br/>
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img 
-    width="48%" 
-    src="https://github-readme-stats.vercel.app/api?username=joseMariaMartins&show_icons=true&theme=radical&count_private=true" 
-  />
-  <img 
-    width="48%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseMariaMartins&layout=compact&theme=radical&langs_count=8" 
-  />
-</p>
-
----
-
-### 📫 Conecte-se comigo
-
-<div> 
-  <a href = "mailto:seu-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
