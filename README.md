@@ -27,17 +27,18 @@ Sou José Maria Martins, um desenvolvedor apaixonado por tecnologia e inovação
 
 <p align="center">
   <img 
+    height="200"
     width="48%" 
+    style="margin-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseMariaMartins&layout=compact&theme=radical&langs_count=8" 
   />
-    <img 
+  <img 
+    height="200"
     width="48%" 
     src="https://github-readme-stats.vercel.app/api?username=joseMariaMartins&show_icons=true&theme=radical&count_private=true" 
   />
 </p>
 
-<br/>
-<br/>
 <br/>
 
 ### 🛠️ Tecnologias e Ferramentas
