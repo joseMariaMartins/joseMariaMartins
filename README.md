@@ -1,26 +1,27 @@
-# José Maria Martins Junior
+# <span style="color:#FF8C00;">José Maria Martins Junior</span>
 
 ---
-                                                                                                                                                                                                                                                                                        
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
 
-<p align="left">
-    <img 
-    height="200"
-    width="45%" 
-    margin-right=10px
-    src="https://github-readme-stats.vercel.app/api?username=joseMariaMartins&show_icons=true&theme=radical&count_private=true" 
-  />
-  <img 
-    height="200"
-    width="45%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseMariaMartins&layout=compact&theme=radical&langs_count=8" 
-  />
-</p>
+<table>
+  <tr>
+    <td>
+      <img 
+        height="200"
+        src="https://github-readme-stats.vercel.app/api?username=joseMariaMartins&show_icons=true&theme=radical&count_private=true" 
+      />
+    </td>
+    <td>
+      <img 
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseMariaMartins&layout=compact&theme=radical&langs_count=8" 
+      />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-### Tecnologias 
+### <span style="color:#FF8C00;">Tecnologias</span>
 
 <img 
     align="left" 
@@ -63,3 +64,4 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
+<br/><br/>
