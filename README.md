@@ -1,8 +1,8 @@
 # José Maria Martins Junior
 
 ---
-
-                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
 
 <p align="left">
     <img 
