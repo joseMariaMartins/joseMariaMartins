@@ -8,6 +8,7 @@
     <img 
     height="250"
     width="45%" 
+    margin-right=10px
     src="https://github-readme-stats.vercel.app/api?username=joseMariaMartins&show_icons=true&theme=radical&count_private=true" 
   />
   <img 
