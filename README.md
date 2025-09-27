@@ -81,7 +81,7 @@
   title="SQL Server"
   width="40px"
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsqlserver.svg"
+  src="https://raw.githubusercontent.com/microsoft/sql-server-samples/master/samples/media/SQL_Server_logo.png"
 />
 
 <br/><br/>
