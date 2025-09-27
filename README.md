@@ -1,4 +1,4 @@
-<h1><span style="color: #FFD700;">José Maria Martins Junior</span></h1>
+<h1><span style="color: #FFFFFF;">José Maria Martins Junior</span></h1>
 
 
 ---
