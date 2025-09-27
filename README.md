@@ -77,11 +77,12 @@
 />
 <img
   align="left"
-  alt="SQL Server"
-  title="SQL Server"
+  alt="MSSQL"
+  title="MSSQL"
   width="40px"
   style="padding-right: 10px;"
-  src="https://raw.githubusercontent.com/microsoft/sql-server-samples/master/samples/media/SQL_Server_logo.png"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mssql/mssql-original.svg"
 />
+
 
 <br/><br/>
