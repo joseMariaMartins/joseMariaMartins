@@ -1,8 +1,4 @@
-<h1 align="center">José Junior</h1> <p align="center"> <strong>Estudante de Ciência de Dados para Negócios na FATEC</strong> <br> Técnico em Desenvolvimento de Sistemas pela ETEC </p> <br> <div align="center"> <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=level&theme=dark&fontFamily=&preferLogin=false"> <img height="180" src="https://awesome-github-stats.azurewebsites.net/user-stats/joseMariaMartins?cardType=level&theme=dark&fontFamily=&preferLogin=false" alt="GitHub Stats - José Junior" /> </a>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseMariaMartins&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=FFA500" alt="Linguagens mais utilizadas" />
-
-</div> <br>
+<h1 align="center">José Junior</h1> <p align="center"> <strong>Estudante de Ciência de Dados para Negócios na FATEC</strong> <br> Técnico em Desenvolvimento de Sistemas pela ETEC </p> <br> <div align="center"> <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=level&theme=dark&fontFamily=&preferLogin=false"> <img height="180" src="https://awesome-github-stats.azurewebsites.net/user-stats/joseMariaMartins?cardType=level&theme=dark&fontFamily=&preferLogin=false" alt="GitHub Stats - José Junior" /> </a> </div> <br>
 Sobre mim
 
 Sou estudante de Ciência de Dados para Negócios na FATEC e formado como Técnico em Desenvolvimento de Sistemas pela ETEC.
